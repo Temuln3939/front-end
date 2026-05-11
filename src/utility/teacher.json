@@ -1,0 +1,704 @@
+[
+    {
+        "id": 1,
+        "firstname": "Сод-Од",
+        "age": 45,
+        "email": "sod-od@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "SodOd@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 10,
+                "name": "Whiteboard marker"
+            },
+            {
+                "id": 11,
+                "name": "Lesson plan"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=SodOd&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 185
+    },
+    {
+        "id": 2,
+        "firstname": "Тамир",
+        "age": 38,
+        "email": "tamir@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Tam@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 12,
+                "name": "Textbook"
+            },
+            {
+                "id": 13,
+                "name": "Red pen"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Tamir&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 172
+    },
+    {
+        "id": 3,
+        "firstname": "Ганхөлөг",
+        "age": 52,
+        "email": "gankholog@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Gan@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 14,
+                "name": "Grade book"
+            },
+            {
+                "id": 15,
+                "name": "Chalk"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Gankholog&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 168
+    },
+    {
+        "id": 4,
+        "firstname": "Мэнд-Амар",
+        "age": 41,
+        "email": "mend-amar@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "MendA@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 16,
+                "name": "Ruler"
+            },
+            {
+                "id": 17,
+                "name": "Attendance sheet"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=MendAmar&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 160
+    },
+    {
+        "id": 5,
+        "firstname": "Намуунаа",
+        "age": 47,
+        "email": "namuunaa@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Nam@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 18,
+                "name": "Laptop"
+            },
+            {
+                "id": 19,
+                "name": "Projector remote"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Namuunaa&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 178
+    },
+    {
+        "id": 6,
+        "firstname": "Гэрэлтуяа",
+        "age": 35,
+        "email": "gereltuyaa@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Ger@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 20,
+                "name": "Stapler"
+            },
+            {
+                "id": 21,
+                "name": "Sticky notes"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Gereltuyaa&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 181
+    },
+    {
+        "id": 7,
+        "firstname": "Жавзандулам",
+        "age": 58,
+        "email": "javzandulam@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Jav@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 22,
+                "name": "Compass"
+            },
+            {
+                "id": 23,
+                "name": "Protractor"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Javzandulam&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 174
+    },
+    {
+        "id": 8,
+        "firstname": "Адъяхүү",
+        "age": 43,
+        "email": "adyakhuu@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Ady@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 24,
+                "name": "Scissors"
+            },
+            {
+                "id": 25,
+                "name": "Glue stick"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Adyakhuu&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 165
+    },
+    {
+        "id": 9,
+        "firstname": "Оюунтуяа",
+        "age": 50,
+        "email": "oyuuntuyaa@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Oyu@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 26,
+                "name": "Calculator"
+            },
+            {
+                "id": 27,
+                "name": "Exam papers"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Oyuuntuyaa&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 183
+    },
+    {
+        "id": 10,
+        "firstname": "Рэнцэнхорлоо",
+        "age": 36,
+        "email": "rentsenhorloo@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Ren@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 28,
+                "name": "Flash cards"
+            },
+            {
+                "id": 29,
+                "name": "Dictionary"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Rentsenhorloo&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 162
+    },
+    {
+        "id": 11,
+        "firstname": "Батхишиг",
+        "age": 54,
+        "email": "batkhishig@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "BatK@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 30,
+                "name": "Whiteboard eraser"
+            },
+            {
+                "id": 31,
+                "name": "Marker set"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Batkhishig&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 177
+    },
+    {
+        "id": 12,
+        "firstname": "Тэгшдэлгэр",
+        "age": 39,
+        "email": "tegshdelger@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Teg@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 32,
+                "name": "Notebook"
+            },
+            {
+                "id": 33,
+                "name": "Pen"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Tegshdelger&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 159
+    },
+    {
+        "id": 13,
+        "firstname": "Дөл",
+        "age": 60,
+        "email": "dol@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Dol@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 34,
+                "name": "Report card"
+            },
+            {
+                "id": 35,
+                "name": "Stamp"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Dol&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 163
+    },
+    {
+        "id": 14,
+        "firstname": "Lavenia",
+        "age": 44,
+        "email": "lavenia@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Lav@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 36,
+                "name": "Worksheet"
+            },
+            {
+                "id": 37,
+                "name": "Highlighter"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Lavenia&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id": 15,
+        "firstname": "Лхагважаргал",
+        "age": 48,
+        "email": "lkhagvajargal@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Lkh@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 38,
+                "name": "Class roster"
+            },
+            {
+                "id": 39,
+                "name": "Binder"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Lkhagvajargal&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 166
+    },
+    {
+        "id": 16,
+        "firstname": "Чанцалням",
+        "age": 33,
+        "email": "chantsalnyam@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Cha@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 40,
+                "name": "Science kit"
+            },
+            {
+                "id": 41,
+                "name": "Lab coat"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Chantsalnyam&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 188
+    },
+    {
+        "id": 17,
+        "firstname": "Азжаргал",
+        "age": 56,
+        "email": "azjargal@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Azj@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 42,
+                "name": "Music sheet"
+            },
+            {
+                "id": 43,
+                "name": "Tuning fork"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Azjargal&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 175
+    },
+    {
+        "id": 18,
+        "firstname": "Тэмүжин",
+        "age": 42,
+        "email": "temujin@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "TemJ@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 44,
+                "name": "Whistle"
+            },
+            {
+                "id": 45,
+                "name": "Stopwatch"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Temujin&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 180
+    },
+    {
+        "id": 19,
+        "firstname": "Өсөхбаатар",
+        "age": 37,
+        "email": "osokhbaatar@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Oso@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 46,
+                "name": "Art supply kit"
+            },
+            {
+                "id": 47,
+                "name": "Sketchbook"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Osokhbaatar&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 158
+    },
+    {
+        "id": 20,
+        "firstname": "Мөнх-Оргил",
+        "age": 31,
+        "email": "munkh-orgil@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "MunO@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 48,
+                "name": "Globe"
+            },
+            {
+                "id": 49,
+                "name": "Map poster"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=MunkhOrgil&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 164
+    },
+    {
+        "id": 21,
+        "firstname": "Цэрэнлхагва",
+        "age": 53,
+        "email": "tserenlkhagva@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "TseL@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 50,
+                "name": "Chess set"
+            },
+            {
+                "id": 51,
+                "name": "Logic puzzle book"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Tserenlkhagva&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 167
+    },
+    {
+        "id": 22,
+        "firstname": "Бархасболд",
+        "age": 46,
+        "email": "barkhasbold@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Bar@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 52,
+                "name": "Wall map"
+            },
+            {
+                "id": 53,
+                "name": "Geography textbook"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Barkhasbold&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 176
+    },
+    {
+        "id": 23,
+        "firstname": "Охиноо",
+        "age": 57,
+        "email": "okhinoo@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Okh@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 54,
+                "name": "Telescope"
+            },
+            {
+                "id": 55,
+                "name": "Physics textbook"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Okhinoo&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 182
+    },
+    {
+        "id": 24,
+        "firstname": "Оросоо",
+        "age": 34,
+        "email": "orosoo@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "Oro@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 56,
+                "name": "Camera"
+            },
+            {
+                "id": 57,
+                "name": "Media equipment"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Orosoo&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 169
+    },
+    {
+        "id": 25,
+        "firstname": "Баттөмөр",
+        "age": 49,
+        "email": "battomor@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "BatT@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 58,
+                "name": "PE equipment bag"
+            },
+            {
+                "id": 59,
+                "name": "Fitness tracker"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Battomor&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 190
+    },
+    {
+        "id": 26,
+        "firstname": "Лхамжав",
+        "age": 40,
+        "email": "lkhamjav@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "LkhJ@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 60,
+                "name": "Calligraphy pen"
+            },
+            {
+                "id": 61,
+                "name": "Ink set"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Lkhamjav&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 161
+    },
+    {
+        "id": 27,
+        "firstname": "Пүрэвсүрэн",
+        "age": 55,
+        "email": "purevsuren@gmail.com",
+        "job": "Lehrer",
+        "alive": true,
+        "password": "PurS@Lehr#2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2By865tKvPHIndSxwjWm_1G2SvjbfrMlFA&s",
+        "items": [
+            {
+                "id": 62,
+                "name": "Lecture notes"
+            },
+            {
+                "id": 63,
+                "name": "Presentation clicker"
+            },
+            {
+                "id": 99,
+                "name": "image",
+                "url": "https://api.dicebear.com/7.x/initials/svg?seed=Purevsuren&backgroundColor=bfdbfe"
+            }
+        ],
+        "height": 140
+    }
+]
