@@ -24,8 +24,9 @@ const Divider = ({ label, color }) => {
 const Card = ({ person, role }) => (
   <div className="border border-gray-200 rounded-xl m-2 p-4 shadow-sm bg-white hover:shadow-md transition">
     <span
-      className={`text-white text-xs border p-1 rounded-lg ${role === "Student" ? "bg-green-600" : "bg-blue-800"
-        }`}
+      className={`text-white text-xs border p-1 rounded-lg ${
+        role === "Student" ? "bg-green-600" : "bg-blue-800"
+      }`}
     >
       {role}
     </span>
@@ -58,6 +59,11 @@ const Card = ({ person, role }) => (
       {person.items.map((item) => (
         <li key={item.id}>
           {item.name}
+          <img
+            src="https://hips.hearstapps.com/hmg-prod/images/close-up-of-pomegranates-on-table-royalty-free-image-1701801291.jpg?crop=0.659xw:0.990xh;0.147xw,0&resize=1200:*"
+            alt="Pomegranate"
+            className="w-10 h-10 rounded mt-1 object-cover"
+          />
           {item.url && (
             <img
               src={item.url}
@@ -67,20 +73,6 @@ const Card = ({ person, role }) => (
           )}
         </li>
       ))}
-      <li>
-        <img
-          src="https://hips.hearstapps.com/hmg-prod/images/close-up-of-pomegranates-on-table-royalty-free-image-1701801291.jpg?crop=0.659xw:0.990xh;0.147xw,0&resize=1200:*"
-          alt="Pomegranate"
-          className="w-10 h-10 rounded mt-1 object-cover"
-        />
-      </li>
-      <li>
-        <img
-          src="https://hips.hearstapps.com/hmg-prod/images/close-up-of-pomegranates-on-table-royalty-free-image-1701801291.jpg?crop=0.659xw:0.990xh;0.147xw,0&resize=1200:*"
-          alt="Pomegranate"
-          className="w-10 h-10 rounded mt-1 object-cover"
-        />
-      </li>
     </ul>
   </div>
 );
