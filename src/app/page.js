@@ -67,6 +67,20 @@ const Card = ({ person, role }) => (
           )}
         </li>
       ))}
+      <li>
+        <img
+          src="https://hips.hearstapps.com/hmg-prod/images/close-up-of-pomegranates-on-table-royalty-free-image-1701801291.jpg?crop=0.659xw:0.990xh;0.147xw,0&resize=1200:*"
+          alt="Pomegranate"
+          className="w-10 h-10 rounded mt-1 object-cover"
+        />
+      </li>
+      <li>
+        <img
+          src="https://hips.hearstapps.com/hmg-prod/images/close-up-of-pomegranates-on-table-royalty-free-image-1701801291.jpg?crop=0.659xw:0.990xh;0.147xw,0&resize=1200:*"
+          alt="Pomegranate"
+          className="w-10 h-10 rounded mt-1 object-cover"
+        />
+      </li>
     </ul>
   </div>
 );
